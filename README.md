@@ -1,2 +1,2 @@
 # Gemini App
-This is a python app created with Google Gemini
+This is a repository where apps that are built with Google Gemini are distributed.
